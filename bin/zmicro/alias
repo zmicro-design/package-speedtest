@@ -9,7 +9,7 @@ help() {
 }
 
 version() {
-  speedtest version
+  speedtest --version
 }
 
 core() {
